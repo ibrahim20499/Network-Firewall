@@ -3,9 +3,9 @@ Import-Module AWSPowerShell
 
 #AWS Credentials 
 
-$UserSecretKey = "IVZxykXlYobT+RT0C9nVgo/elEs/w+qZJyAD2Rcd"
+$UserSecretKey = ""
 
-$UserAccessKey = "AKIAZQ3DTPU5YDBXYQUK"
+$UserAccessKey = ""
 
 $ProfileName = "Ibrahim"
 
